@@ -1,0 +1,34 @@
+{
+  "schema": 1,
+  "visibility": "public-derived",
+  "notice": "相対値のみ。実数（フォロワー数・リーチ数等）は含まない。",
+  "account_id": "efk",
+  "account_name": "EFK Instagram",
+  "run_at": "2026-09-04T12:21:40+00:00",
+  "prev_run_at": null,
+  "posts_ranked": 0,
+  "changes_pct": {
+    "reach": null,
+    "profile_views": null,
+    "followers_count": null,
+    "total_interactions": null,
+    "saves": null,
+    "shares": null,
+    "views": null
+  },
+  "rates_pct": {
+    "save_rate": null,
+    "share_rate": null,
+    "profile_rate": null,
+    "follow_conversion": null
+  },
+  "top_posts": [],
+  "bottom_posts": [],
+  "unavailable_metrics": [],
+  "health": {
+    "state": "error",
+    "last_success_at": null,
+    "consecutive_failures": 1,
+    "token_expires_label": null
+  }
+}
