@@ -4,8 +4,8 @@
   "notice": "相対値のみ。実数（フォロワー数・リーチ数等）は含まない。",
   "account_id": "efk",
   "account_name": "EFK Instagram",
-  "run_at": "2026-09-04T12:21:40+00:00",
-  "prev_run_at": null,
+  "run_at": "2026-09-14T16:05:28+00:00",
+  "prev_run_at": "2026-09-04T12:21:40+00:00",
   "posts_ranked": 0,
   "changes_pct": {
     "reach": null,
@@ -28,7 +28,7 @@
   "health": {
     "state": "error",
     "last_success_at": null,
-    "consecutive_failures": 1,
+    "consecutive_failures": 2,
     "token_expires_label": null
   }
 }
