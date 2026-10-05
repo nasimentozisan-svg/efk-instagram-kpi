@@ -4,22 +4,22 @@
   "notice": "相対値のみ。実数（フォロワー数・リーチ数等）は含まない。",
   "account_id": "efk",
   "account_name": "EFK Instagram",
-  "run_at": "2026-09-28T00:21:02+00:00",
-  "prev_run_at": "2026-09-20T23:54:49+00:00",
+  "run_at": "2026-10-05T00:30:02+00:00",
+  "prev_run_at": "2026-09-28T00:21:02+00:00",
   "posts_ranked": 50,
   "changes_pct": {
-    "reach": 144.4,
-    "profile_views": 63.6,
-    "followers_count": 0.3,
-    "total_interactions": -25.5,
-    "saves": 0.0,
-    "shares": -50.0,
-    "views": 50.3
+    "reach": -76.7,
+    "profile_views": -48.9,
+    "followers_count": -0.1,
+    "total_interactions": 10.5,
+    "saves": -66.7,
+    "shares": 114.3,
+    "views": -53.4
   },
   "rates_pct": {
-    "save_rate": 0.79,
+    "save_rate": 0.0,
     "share_rate": 0.0,
-    "profile_rate": 25.46,
+    "profile_rate": 22.69,
     "follow_conversion": null
   },
   "top_posts": [
@@ -28,8 +28,8 @@
       "caption_head": "今回はちょっと長め",
       "permalink": "https://www.instagram.com/reel/DZP0CToz9iG/",
       "media_product_type": "REELS",
-      "reach_vs_median": 14.17,
-      "save_rate_pct": 2.16,
+      "reach_vs_median": 15.07,
+      "save_rate_pct": 2.15,
       "share_rate_pct": 0.48
     },
     {
@@ -37,16 +37,16 @@
       "caption_head": "エンフはやっぱりこれだよね！#プロレス",
       "permalink": "https://www.instagram.com/reel/DZPz36Hz4f3/",
       "media_product_type": "REELS",
-      "reach_vs_median": 9.87,
+      "reach_vs_median": 10.51,
       "save_rate_pct": 2.7,
-      "share_rate_pct": 3.17
+      "share_rate_pct": 3.2
     },
     {
       "rank": 3,
       "caption_head": "【コート無料解放のお知らせ】",
       "permalink": "https://www.instagram.com/p/DbX124Hz69q/",
       "media_product_type": "FEED",
-      "reach_vs_median": 9.45,
+      "reach_vs_median": 10.05,
       "save_rate_pct": 0.09,
       "share_rate_pct": 0.15
     }
@@ -54,36 +54,36 @@
   "bottom_posts": [
     {
       "rank": 50,
-      "caption_head": "⚽️「1対1になると、簡単に抜かれてしまう…」",
-      "permalink": "https://www.instagram.com/p/DbvD3elE10R/",
-      "media_product_type": "FEED",
-      "reach_vs_median": 0.34,
-      "save_rate_pct": 0.0,
-      "share_rate_pct": 0.15
-    },
-    {
-      "rank": 49,
-      "caption_head": "⚽️「試合になると、なかなかボールを持てない…」",
-      "permalink": "https://www.instagram.com/p/DbxQ3X8k_rP/",
-      "media_product_type": "FEED",
-      "reach_vs_median": 0.36,
+      "caption_head": "",
+      "permalink": "https://www.instagram.com/reel/DeBhzhaE1Ao/",
+      "media_product_type": "REELS",
+      "reach_vs_median": 0.29,
       "save_rate_pct": 0.0,
       "share_rate_pct": 0.0
     },
     {
-      "rank": 48,
-      "caption_head": "⚽️サッカーにも絶対活きる！",
-      "permalink": "https://www.instagram.com/p/Db1vDbqE9KA/",
+      "rank": 49,
+      "caption_head": "⚽️「1対1になると、簡単に抜かれてしまう…」",
+      "permalink": "https://www.instagram.com/p/DbvD3elE10R/",
       "media_product_type": "FEED",
-      "reach_vs_median": 0.39,
-      "save_rate_pct": 0.13,
+      "reach_vs_median": 0.37,
+      "save_rate_pct": 0.0,
+      "share_rate_pct": 0.15
+    },
+    {
+      "rank": 48,
+      "caption_head": "⚽️「試合になると、なかなかボールを持てない…」",
+      "permalink": "https://www.instagram.com/p/DbxQ3X8k_rP/",
+      "media_product_type": "FEED",
+      "reach_vs_median": 0.38,
+      "save_rate_pct": 0.0,
       "share_rate_pct": 0.0
     }
   ],
   "unavailable_metrics": [],
   "health": {
     "state": "ok",
-    "last_success_at": "2026-09-28T00:21:02+00:00",
+    "last_success_at": "2026-10-05T00:30:02+00:00",
     "consecutive_failures": 0,
     "token_expires_label": "2026-11-13T16:30:13+00:00"
   }
