@@ -4,22 +4,22 @@
   "notice": "相対値のみ。実数（フォロワー数・リーチ数等）は含まない。",
   "account_id": "efk",
   "account_name": "EFK Instagram",
-  "run_at": "2026-11-02T01:19:34+00:00",
-  "prev_run_at": "2026-10-25T23:54:07+00:00",
+  "run_at": "2026-11-09T01:29:16+00:00",
+  "prev_run_at": "2026-11-02T01:19:34+00:00",
   "posts_ranked": 50,
   "changes_pct": {
-    "reach": 99.6,
-    "profile_views": 28.1,
-    "followers_count": 1.0,
-    "total_interactions": 62.9,
-    "saves": null,
-    "shares": -41.7,
-    "views": 68.7
+    "reach": -18.8,
+    "profile_views": -27.6,
+    "followers_count": 0.1,
+    "total_interactions": -46.0,
+    "saves": -90.9,
+    "shares": -42.9,
+    "views": -26.3
   },
   "rates_pct": {
-    "save_rate": 0.14,
-    "share_rate": 0.05,
-    "profile_rate": 5.82,
+    "save_rate": 0.03,
+    "share_rate": 0.08,
+    "profile_rate": 4.37,
     "follow_conversion": null
   },
   "top_posts": [
@@ -28,7 +28,7 @@
       "caption_head": "【コート無料解放のお知らせ】",
       "permalink": "https://www.instagram.com/p/DbX124Hz69q/",
       "media_product_type": "FEED",
-      "reach_vs_median": 11.35,
+      "reach_vs_median": 12.06,
       "save_rate_pct": 0.09,
       "share_rate_pct": 0.15
     },
@@ -37,7 +37,7 @@
       "caption_head": "【女子チーム】",
       "permalink": "https://www.instagram.com/p/Da7ZLH1TwJp/",
       "media_product_type": "FEED",
-      "reach_vs_median": 4.66,
+      "reach_vs_median": 4.95,
       "save_rate_pct": 0.03,
       "share_rate_pct": 0.01
     },
@@ -46,7 +46,7 @@
       "caption_head": "🔥 U15フットサル選手権 熊本県大会 🔥",
       "permalink": "https://www.instagram.com/p/DdnY11ITeA3/",
       "media_product_type": "FEED",
-      "reach_vs_median": 3.66,
+      "reach_vs_median": 3.9,
       "save_rate_pct": 0.03,
       "share_rate_pct": 0.0
     }
@@ -54,36 +54,36 @@
   "bottom_posts": [
     {
       "rank": 50,
-      "caption_head": "自主練でロングフィード⚽️",
-      "permalink": "https://www.instagram.com/p/DfM8wAUl-M2/",
+      "caption_head": "フットサル日本代表の試合を観戦してきました🇯🇵",
+      "permalink": "https://www.instagram.com/p/DfgC42nlAbV/",
       "media_product_type": "FEED",
-      "reach_vs_median": 0.28,
-      "save_rate_pct": 0.44,
-      "share_rate_pct": 0.0
-    },
-    {
-      "rank": 49,
-      "caption_head": "EFKフットサルフィールド熊本店の個人向けコート利用サブスク「マイコート」。",
-      "permalink": "https://www.instagram.com/p/De-j8a-lwy6/",
-      "media_product_type": "FEED",
-      "reach_vs_median": 0.4,
+      "reach_vs_median": 0.09,
       "save_rate_pct": 0.0,
       "share_rate_pct": 0.0
     },
     {
-      "rank": 48,
-      "caption_head": "なしめの、ちょっとフットサル。",
-      "permalink": "https://www.instagram.com/p/DfJn6vRF0O9/",
+      "rank": 49,
+      "caption_head": "【第3話】コントロール・オリエンタード",
+      "permalink": "https://www.instagram.com/p/DfbrFTwEa_W/",
       "media_product_type": "FEED",
       "reach_vs_median": 0.41,
-      "save_rate_pct": 0.3,
-      "share_rate_pct": 0.15
+      "save_rate_pct": 0.0,
+      "share_rate_pct": 0.16
+    },
+    {
+      "rank": 48,
+      "caption_head": "⚽️「1対1になると、簡単に抜かれてしまう…」",
+      "permalink": "https://www.instagram.com/p/DbvD3elE10R/",
+      "media_product_type": "FEED",
+      "reach_vs_median": 0.47,
+      "save_rate_pct": 0.0,
+      "share_rate_pct": 0.14
     }
   ],
   "unavailable_metrics": [],
   "health": {
     "state": "ok",
-    "last_success_at": "2026-11-02T01:19:34+00:00",
+    "last_success_at": "2026-11-09T01:29:16+00:00",
     "consecutive_failures": 0,
     "token_expires_label": "2026-11-13T16:30:13+00:00"
   }
